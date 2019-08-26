@@ -1,4 +1,4 @@
-Hello Worl!d
+Hello World!
 My name is Cong Nguyen
 I am from Vietnam
 I hope I will improve my C++ skills after this class
