@@ -4,6 +4,8 @@ My name is *Cong Nguyen*.
 I am from **Vietnam**.
 I hope I will improve my C++ skills after this class.
 I want to go around a world and take many landscape photos.
+Here is my profile link: 
+[Github](https://github.com/cnguyen1209)
 
 ### This is my photo
 
