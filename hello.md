@@ -10,4 +10,4 @@ I want to go around a world and take many landscape photos.
 I took this picture on *July 4th*.
 This is the first time I took photos of fireworks.
 It was a great experience.
-I used a photography technical called ***long exposure*** time
+I used a photography technique called ***long exposure*** 

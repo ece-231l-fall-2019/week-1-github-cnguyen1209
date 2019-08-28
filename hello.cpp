@@ -10,6 +10,6 @@ main(){
   std::cout << "I took this picture on *July 4th*." << std::endl;
   std::cout << "This is the first time I took photos of fireworks." << std::endl;
   std::cout << "It was a great experience." << std::endl;
-  std::cout << "I used a photography technical called ***long exposure*** time" << std::endl;
+  std::cout << "I used a photography technique called ***long exposure*** " << std::endl;
   return 0;
 }
