@@ -7,7 +7,7 @@ I want to go around a world and take many landscape photos.
 Here is my profile link: 
 [Github](https://github.com/cnguyen1209)
 
-### This is my photo
+### This is my photo :sparkles:	
 
 ![Image of fireworks](https://github.com/ece-231l-fall-2019/week-1-github-cnguyen1209/blob/master/fireworks.jpg)
 
