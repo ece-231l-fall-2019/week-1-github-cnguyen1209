@@ -4,7 +4,7 @@ main(){
   std::cout << "### Hello! Here is some thing about me" << std::endl << std::endl;
   std::cout << "My name is *Cong Nguyen*." <<std::endl;
   std::cout << "I am from **Vietnam**." << std::endl;
-  std::cout << "I have lived in Albuquerque for 3 years" << std::endl;
+  std::cout << "I have lived in Albuquerque for 3 years. " << std::endl;
   std::cout << "My major is Computer Engineering" << std:: endl;
   std::cout << "I hope I will improve my C++ skills after this class." << std::endl;
   std::cout << "I want to go around a world and take many landscape photos." << std::endl;

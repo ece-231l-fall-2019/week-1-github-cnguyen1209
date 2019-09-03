@@ -4,7 +4,7 @@
 
 My name is *Cong Nguyen*.
 I am from **Vietnam**.
-I have lived in Albuquerque for 3 years
+I have lived in Albuquerque for 3 years. 
 My major is Computer Engineering
 I hope I will improve my C++ skills after this class.
 I want to go around a world and take many landscape photos.
